@@ -20,10 +20,10 @@ To generate domain-specific images (such as anime, medical, or flowers) using a 
 4. Saved and downloaded output image
 
 ## Sample Prompt
-"a beautiful anime girl with blue hair, ultra detailed, 4k"
+"anime girl with pink hair, ultra detailed, 4k, cinematic lighting"
 
 ## Output
-![Generated Image](output.png)
+![Generated Image](output1.png)
 
 ## Conclusion
 The model successfully generated high-quality images from text prompts. This shows how pre-trained models can be used for domain-specific image generation.
